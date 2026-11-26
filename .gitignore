@@ -1,2 +1,47 @@
-.venv
-data/
+# --- Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.coverage
+htmlcov/
+.ruff_cache/
+.mypy_cache/
+
+# --- Virtual environments / secrets
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# --- Jupyter
+.ipynb_checkpoints/
+reports/executed/
+
+# --- Data
+data/raw/*
+data/processed/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# --- Models and generated reports
+models/*
+!models/.gitkeep
+reports/figures/
+reports/*.json
+
+# --- MLflow
+mlruns/
+mlartifacts/
+mlflow.db
+
+# --- Monitoring / prediction logs
+logs/
+*.log
+
+# --- OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
