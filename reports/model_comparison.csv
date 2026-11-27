@@ -1,0 +1,4 @@
+model,val_precision,val_recall,val_f1,val_roc_auc,val_pr_auc,threshold,f1_at_0.5,cv_roc_auc,train_roc_auc,fit_seconds
+Logistic Regression,0.653,0.618,0.635,0.849,0.635,0.518,0.63,0.858,0.862,169.527
+Random Forest,0.546,0.821,0.656,0.851,0.642,0.313,0.585,0.859,0.914,119.277
+Gradient Boosting,0.574,0.746,0.649,0.854,0.655,0.374,0.597,0.863,0.878,64.157

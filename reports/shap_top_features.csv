@@ -1,0 +1,40 @@
+feature,mean_abs_shap,method
+Tenure Months,0.14886771748009706,shap
+Total Charges,0.0633172362013004,shap
+Dependents_Yes,0.05989709743890149,shap
+Contract_Month-to-month,0.033272246819493576,shap
+Contract_Two year,0.025758873193015976,shap
+Paperless Billing_Yes,0.020751843641604175,shap
+Internet Service_DSL,0.019786293429186686,shap
+Multiple Lines_No,0.019778317607428587,shap
+Tech Support_Yes,0.01749994823913903,shap
+Online Security_Yes,0.017421800965232083,shap
+Monthly Charges,0.016526853617101725,shap
+Partner_Yes,0.016324977742786045,shap
+Streaming Movies_No,0.012861194277089514,shap
+Online Backup_Yes,0.011954982554473517,shap
+Streaming TV_No,0.011212002685086498,shap
+Payment Method_Electronic check,0.01030002886259727,shap
+Device Protection_Yes,0.010119468839882826,shap
+Payment Method_Credit card (automatic),0.009581569919285932,shap
+Contract_One year,0.008426037393781031,shap
+Phone Service_Yes,0.0075013505497036805,shap
+Internet Service_Fiber optic,0.00750070625852262,shap
+Payment Method_Bank transfer (automatic),0.007258320207048444,shap
+Online Security_No,0.006528904167610274,shap
+Online Security_No internet service,0.006052742624294427,shap
+Streaming TV_No internet service,0.006042979626354097,shap
+Tech Support_No internet service,0.0060369648530818444,shap
+Streaming Movies_No internet service,0.0060341878643614495,shap
+Internet Service_No,0.006031098839725355,shap
+Online Backup_No internet service,0.006019350029227998,shap
+Device Protection_No internet service,0.006012853485433856,shap
+Payment Method_Mailed check,0.005730755046201066,shap
+Tech Support_No,0.005338384358708832,shap
+Device Protection_No,0.003991421105231933,shap
+Streaming TV_Yes,0.0038330579196862026,shap
+Multiple Lines_Yes,0.0035570701778961265,shap
+Streaming Movies_Yes,0.0020809802735858875,shap
+Online Backup_No,0.0014164586589735112,shap
+Multiple Lines_No phone service,0.0013010235373773157,shap
+Senior Citizen_Yes,0.0006063415717258312,shap
