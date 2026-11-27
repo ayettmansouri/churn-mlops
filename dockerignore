@@ -1,0 +1,13 @@
+.venv/
+.git/
+__pycache__/
+*.pyc
+data/
+notebooks/
+reports/
+logs/
+mlruns/
+mlartifacts/
+mlflow.db
+models/candidates/
+models/preprocessor.joblib
